@@ -7,5 +7,5 @@ Bot scrapes provided news platforms and performs sentiment analysis of news, try
 + How this news will effect the stock price for the company?
 
 Todo:
-+ Providers are a bit finecky to setup, needs some work
++ Providers are a bit finicky to setup, needs some work
 + Testing of effectiveness on real stocks
