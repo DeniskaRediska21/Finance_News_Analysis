@@ -1,4 +1,4 @@
-# Finantial News Sentiment Analysis
+# Financial News Sentiment Analysis
 
 Sentiment analyser powered by LLM and Ollama.
 
