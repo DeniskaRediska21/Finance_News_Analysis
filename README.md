@@ -2,7 +2,7 @@
 
 Sentiment analyser powered by LLM and Ollama.
 
-Bot scrapes provided news provider and analyses news, trying to answer 2 questions: 
+Bot scrapes provided news platforms and performs sentiment analysis of news, trying to answer 2 questions: 
 + What is the company in question?
 + How this news will effect the stock price for the company?
 
